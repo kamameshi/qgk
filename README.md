@@ -1,3 +1,3 @@
 # qgk
 
-Quarkus + GraalVM + kube sample
+Golang + kube sample
